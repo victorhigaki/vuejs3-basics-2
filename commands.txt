@@ -1,0 +1,29 @@
+www.nodejs.org
+node -v
+
+npm install -g @vue/cli
+
+cd Folder
+cd ..
+
+vue create modal-project
+Manually select features
+
+(*) Babel
+( ) TypeScript
+( ) Progressive Web App (PWA) Support
+( ) Router
+( ) Vuex
+( ) CSS Pre-processors
+( ) Linter / Formatter
+( ) Unit Testing
+( ) E2E Testing
+
+3.x
+
+In dedicated config files
+
+Save this as a preset for future projects? (y/N) N
+
+cd modal-project
+code .
